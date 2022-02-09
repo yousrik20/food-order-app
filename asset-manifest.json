@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.d8daa9fc.css",
-    "main.js": "/static/js/main.5985c2f6.js",
-    "static/js/787.ae0cd389.chunk.js": "/static/js/787.ae0cd389.chunk.js",
-    "static/media/logo.png": "/static/media/logo.019682feddc6460646b2.png",
-    "static/media/indian.jpg": "/static/media/indian.315a32bdb9ad6a1f8d4d.jpg",
-    "index.html": "/index.html",
-    "main.d8daa9fc.css.map": "/static/css/main.d8daa9fc.css.map",
-    "main.5985c2f6.js.map": "/static/js/main.5985c2f6.js.map",
-    "787.ae0cd389.chunk.js.map": "/static/js/787.ae0cd389.chunk.js.map"
+    "main.css": "/food-order-app/static/css/main.2839886b.css",
+    "main.js": "/food-order-app/static/js/main.37f16071.js",
+    "static/js/787.ae0cd389.chunk.js": "/food-order-app/static/js/787.ae0cd389.chunk.js",
+    "static/media/logo.png": "/food-order-app/static/media/logo.019682feddc6460646b2.png",
+    "static/media/indian.jpg": "/food-order-app/static/media/indian.315a32bdb9ad6a1f8d4d.jpg",
+    "index.html": "/food-order-app/index.html",
+    "main.2839886b.css.map": "/food-order-app/static/css/main.2839886b.css.map",
+    "main.37f16071.js.map": "/food-order-app/static/js/main.37f16071.js.map",
+    "787.ae0cd389.chunk.js.map": "/food-order-app/static/js/787.ae0cd389.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d8daa9fc.css",
-    "static/js/main.5985c2f6.js"
+    "static/css/main.2839886b.css",
+    "static/js/main.37f16071.js"
   ]
 }
