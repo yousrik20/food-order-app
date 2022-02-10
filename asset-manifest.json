@@ -1,17 +1,25 @@
 {
   "files": {
-    "main.css": "/food-order-app/static/css/main.2839886b.css",
-    "main.js": "/food-order-app/static/js/main.37f16071.js",
+    "main.css": "/food-order-app/static/css/main.9af1a9cc.css",
+    "main.js": "/food-order-app/static/js/main.58e5e968.js",
     "static/js/787.ae0cd389.chunk.js": "/food-order-app/static/js/787.ae0cd389.chunk.js",
+    "static/media/rajasthani.jpg": "/food-order-app/static/media/rajasthani.ae32883353b0f39a3804.jpg",
     "static/media/logo.png": "/food-order-app/static/media/logo.019682feddc6460646b2.png",
     "static/media/indian.jpg": "/food-order-app/static/media/indian.315a32bdb9ad6a1f8d4d.jpg",
+    "static/media/chhola.jpg": "/food-order-app/static/media/chhola.a1458ef1370699c23212.jpg",
+    "static/media/contact.jpg": "/food-order-app/static/media/contact.96f0f5e1555a95f3f018.jpg",
+    "static/media/about.jpg": "/food-order-app/static/media/about.66958f54588c46f7181d.jpg",
+    "static/media/paneer.jpg": "/food-order-app/static/media/paneer.f04d2c563fe596463e47.jpg",
+    "static/media/idli.jpg": "/food-order-app/static/media/idli.dc2d98fda6c7a903c64b.jpg",
+    "static/media/gujrati.jpeg": "/food-order-app/static/media/gujrati.77bd2d3baa11e6cf3dcd.jpeg",
+    "static/media/dosa.jpg": "/food-order-app/static/media/dosa.5c938f456ea86779ba13.jpg",
     "index.html": "/food-order-app/index.html",
-    "main.2839886b.css.map": "/food-order-app/static/css/main.2839886b.css.map",
-    "main.37f16071.js.map": "/food-order-app/static/js/main.37f16071.js.map",
+    "main.9af1a9cc.css.map": "/food-order-app/static/css/main.9af1a9cc.css.map",
+    "main.58e5e968.js.map": "/food-order-app/static/js/main.58e5e968.js.map",
     "787.ae0cd389.chunk.js.map": "/food-order-app/static/js/787.ae0cd389.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2839886b.css",
-    "static/js/main.37f16071.js"
+    "static/css/main.9af1a9cc.css",
+    "static/js/main.58e5e968.js"
   ]
 }
