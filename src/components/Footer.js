@@ -8,9 +8,7 @@ const Footer=()=>{
     return(
         <div className="footer">
             <div className="socialMedia">
-                <a href='https://www.instagram.com/yousri.kamal/' target='_blank'>
                 <InstagramIcon/>
-                </a>
                 <TwitterIcon/>
                 <FacebookIcon/>
                 <LinkedInIcon/>
