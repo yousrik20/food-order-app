@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/food-order-app/static/css/main.9af1a9cc.css",
-    "main.js": "/food-order-app/static/js/main.0ffa0d04.js",
+    "main.css": "/food-order-app/static/css/main.69929ce9.css",
+    "main.js": "/food-order-app/static/js/main.19b0307e.js",
     "static/js/787.ae0cd389.chunk.js": "/food-order-app/static/js/787.ae0cd389.chunk.js",
     "static/media/rajasthani.jpg": "/food-order-app/static/media/rajasthani.ae32883353b0f39a3804.jpg",
     "static/media/logo.png": "/food-order-app/static/media/logo.019682feddc6460646b2.png",
@@ -14,12 +14,12 @@
     "static/media/gujrati.jpeg": "/food-order-app/static/media/gujrati.77bd2d3baa11e6cf3dcd.jpeg",
     "static/media/dosa.jpg": "/food-order-app/static/media/dosa.5c938f456ea86779ba13.jpg",
     "index.html": "/food-order-app/index.html",
-    "main.9af1a9cc.css.map": "/food-order-app/static/css/main.9af1a9cc.css.map",
-    "main.0ffa0d04.js.map": "/food-order-app/static/js/main.0ffa0d04.js.map",
+    "main.69929ce9.css.map": "/food-order-app/static/css/main.69929ce9.css.map",
+    "main.19b0307e.js.map": "/food-order-app/static/js/main.19b0307e.js.map",
     "787.ae0cd389.chunk.js.map": "/food-order-app/static/js/787.ae0cd389.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9af1a9cc.css",
-    "static/js/main.0ffa0d04.js"
+    "static/css/main.69929ce9.css",
+    "static/js/main.19b0307e.js"
   ]
 }
